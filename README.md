@@ -1,0 +1,1 @@
+Car Price Prediction using Machine Learning and Regression techniques. This project involves data preprocessing, exploratory data analysis, feature selection, train-test splitting, model training, and performance evaluation to predict vehicle prices based on various car attributes. Built using Python, Pandas, NumPy, Scikit-learn, and Jupyter/Google Colab.
